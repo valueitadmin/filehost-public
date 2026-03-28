@@ -1,2 +1,2 @@
 # filehost-public
-Alles voor NinjaOne scripts te ondersteunen
+Hier staan alle publieke bestanden die we aanroepen via scripts
